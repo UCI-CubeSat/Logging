@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+../Core/Inc/logger.h
+stm32f1xx_hal.h
+../Core/Inc/stm32f1xx_hal.h
+
 ../Core/Inc/main.h
 stm32f1xx_hal.h
 ../Core/Inc/stm32f1xx_hal.h
@@ -247,4 +251,6 @@ stm32f1xx_hal_def.h
 C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/main.c
 main.h
 C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/main.h
+logger.h
+C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/logger.h
 

@@ -56,9 +56,35 @@ include CMakeFiles/CubesatUART.elf.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CubesatUART.elf.dir/flags.make
 
+CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
+CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj: ../Core/Src/clock_config.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj"
+	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\clock_config.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\clock_config.c
+
+CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.i"
+	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\clock_config.c > CMakeFiles\CubesatUART.elf.dir\Core\Src\clock_config.c.i
+
+CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.s"
+	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\clock_config.c -o CMakeFiles\CubesatUART.elf.dir\Core\Src\clock_config.c.s
+
+CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
+CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj: ../Core/Src/logger.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj"
+	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\logger.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\logger.c
+
+CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.i"
+	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\logger.c > CMakeFiles\CubesatUART.elf.dir\Core\Src\logger.c.i
+
+CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.s"
+	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\logger.c -o CMakeFiles\CubesatUART.elf.dir\Core\Src\logger.c.s
+
 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj: ../Core/Src/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\main.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\main.c
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.i: cmake_force
@@ -71,7 +97,7 @@ CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.s: cmake_force
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: ../Core/Src/stm32f1xx_hal_msp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\stm32f1xx_hal_msp.c
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.i: cmake_force
@@ -84,7 +110,7 @@ CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.s: cmake_force
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj: ../Core/Src/stm32f1xx_it.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\stm32f1xx_it.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\stm32f1xx_it.c
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.i: cmake_force
@@ -97,7 +123,7 @@ CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.s: cmake_force
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj: ../Core/Src/syscalls.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\syscalls.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\syscalls.c
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.i: cmake_force
@@ -110,7 +136,7 @@ CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.s: cmake_force
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj: ../Core/Src/sysmem.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\sysmem.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\sysmem.c
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.i: cmake_force
@@ -123,7 +149,7 @@ CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.s: cmake_force
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj: ../Core/Src/system_stm32f1xx.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Src\system_stm32f1xx.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Src\system_stm32f1xx.c
 
 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.i: cmake_force
@@ -136,12 +162,12 @@ CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.s: cmake_force
 
 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj: ../Core/Startup/startup_stm32f103c8tx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building ASM object CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building ASM object CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Core\Startup\startup_stm32f103c8tx.s.obj -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Core\Startup\startup_stm32f103c8tx.s
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.i: cmake_force
@@ -154,7 +180,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.i: cmake_force
@@ -167,7 +193,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_co
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.i: cmake_force
@@ -180,7 +206,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dm
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.i: cmake_force
@@ -193,7 +219,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ex
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.i: cmake_force
@@ -206,7 +232,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_fl
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.i: cmake_force
@@ -219,7 +245,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_fl
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.i: cmake_force
@@ -232,7 +258,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gp
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.i: cmake_force
@@ -245,7 +271,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gp
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i: cmake_force
@@ -258,7 +284,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pw
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i: cmake_force
@@ -271,7 +297,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rc
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i: cmake_force
@@ -284,7 +310,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rc
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i: cmake_force
@@ -297,7 +323,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ti
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i: cmake_force
@@ -310,7 +336,7 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ti
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: CMakeFiles/CubesatUART.elf.dir/flags.make
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj"
 	C:\PROGRA~2\GNUTOO~1\72017-~1\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CubesatUART.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c.obj   -c C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c
 
 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.i: cmake_force
@@ -323,6 +349,8 @@ CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_ua
 
 # Object files for target CubesatUART.elf
 CubesatUART_elf_OBJECTS = \
+"CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj" \
+"CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj" \
 "CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj" \
 "CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" \
 "CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj" \
@@ -348,6 +376,8 @@ CubesatUART_elf_OBJECTS = \
 # External object files for target CubesatUART.elf
 CubesatUART_elf_EXTERNAL_OBJECTS =
 
+CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj
+CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj
 CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
 CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
 CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
@@ -371,7 +401,7 @@ CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src
 CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/build.make
 CubesatUART.elf: CMakeFiles/CubesatUART.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking C executable CubesatUART.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking C executable CubesatUART.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CubesatUART.elf.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CubesatUART.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CubesatUART.bin"

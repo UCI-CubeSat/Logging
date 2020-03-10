@@ -25,6 +25,8 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "../Drivers/STM32F1xx_HAL_Driver/Inc"
   )
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/clock_config.c" "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj"
+  "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/logger.c" "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj"
   "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/main.c" "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj"
   "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/stm32f1xx_hal_msp.c" "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
   "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/stm32f1xx_it.c" "C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj"

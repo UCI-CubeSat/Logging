@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj"
+  "CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj"
   "CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj"
   "CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
   "CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj"

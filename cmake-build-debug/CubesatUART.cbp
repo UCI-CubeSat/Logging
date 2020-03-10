@@ -96,6 +96,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Inc/logger.h">
+			<Option target="CubesatUART.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Inc/main.h">
 			<Option target="CubesatUART.elf"/>
 		</Unit>
@@ -103,6 +106,12 @@
 			<Option target="CubesatUART.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Inc/stm32f1xx_it.h">
+			<Option target="CubesatUART.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/clock_config.c">
+			<Option target="CubesatUART.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/logger.c">
 			<Option target="CubesatUART.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/Core/Src/main.c">

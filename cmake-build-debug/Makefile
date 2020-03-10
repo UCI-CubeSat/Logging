@@ -122,6 +122,60 @@ CubesatUART.elf/fast:
 	$(MAKE) -f CMakeFiles\CubesatUART.elf.dir\build.make CMakeFiles/CubesatUART.elf.dir/build
 .PHONY : CubesatUART.elf/fast
 
+Core/Src/clock_config.obj: Core/Src/clock_config.c.obj
+
+.PHONY : Core/Src/clock_config.obj
+
+# target to build an object file
+Core/Src/clock_config.c.obj:
+	$(MAKE) -f CMakeFiles\CubesatUART.elf.dir\build.make CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.obj
+.PHONY : Core/Src/clock_config.c.obj
+
+Core/Src/clock_config.i: Core/Src/clock_config.c.i
+
+.PHONY : Core/Src/clock_config.i
+
+# target to preprocess a source file
+Core/Src/clock_config.c.i:
+	$(MAKE) -f CMakeFiles\CubesatUART.elf.dir\build.make CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.i
+.PHONY : Core/Src/clock_config.c.i
+
+Core/Src/clock_config.s: Core/Src/clock_config.c.s
+
+.PHONY : Core/Src/clock_config.s
+
+# target to generate assembly for a file
+Core/Src/clock_config.c.s:
+	$(MAKE) -f CMakeFiles\CubesatUART.elf.dir\build.make CMakeFiles/CubesatUART.elf.dir/Core/Src/clock_config.c.s
+.PHONY : Core/Src/clock_config.c.s
+
+Core/Src/logger.obj: Core/Src/logger.c.obj
+
+.PHONY : Core/Src/logger.obj
+
+# target to build an object file
+Core/Src/logger.c.obj:
+	$(MAKE) -f CMakeFiles\CubesatUART.elf.dir\build.make CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.obj
+.PHONY : Core/Src/logger.c.obj
+
+Core/Src/logger.i: Core/Src/logger.c.i
+
+.PHONY : Core/Src/logger.i
+
+# target to preprocess a source file
+Core/Src/logger.c.i:
+	$(MAKE) -f CMakeFiles\CubesatUART.elf.dir\build.make CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.i
+.PHONY : Core/Src/logger.c.i
+
+Core/Src/logger.s: Core/Src/logger.c.s
+
+.PHONY : Core/Src/logger.s
+
+# target to generate assembly for a file
+Core/Src/logger.c.s:
+	$(MAKE) -f CMakeFiles\CubesatUART.elf.dir\build.make CMakeFiles/CubesatUART.elf.dir/Core/Src/logger.c.s
+.PHONY : Core/Src/logger.c.s
+
 Core/Src/main.obj: Core/Src/main.c.obj
 
 .PHONY : Core/Src/main.obj
@@ -680,6 +734,12 @@ help:
 	@echo ... CubesatUART.elf
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Core/Src/clock_config.obj
+	@echo ... Core/Src/clock_config.i
+	@echo ... Core/Src/clock_config.s
+	@echo ... Core/Src/logger.obj
+	@echo ... Core/Src/logger.i
+	@echo ... Core/Src/logger.s
 	@echo ... Core/Src/main.obj
 	@echo ... Core/Src/main.i
 	@echo ... Core/Src/main.s
