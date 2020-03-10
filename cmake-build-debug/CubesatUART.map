@@ -1,0 +1,1272 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-errno.o)
+                              CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj (__errno)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+                              c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x3c CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0xe CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x3a CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000       0x16 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000       0x1e CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000       0x1a CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x1e CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x1e CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000       0x16 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000       0x1e CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x16 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x22 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0xec2 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x294 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x355 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x83a CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x2ac CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .bss.heap_end.5158
+                0x00000000        0x4 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x58 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00000000      0x921 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00000000      0x1ee CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x13f CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000      0x60b CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x00000000       0x34 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd8 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x44 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_EnableIRQ
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_DisableIRQ
+                0x00000000       0x44 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPendingIRQ
+                0x00000000       0x40 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPendingIRQ
+                0x00000000       0x3c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_ClearPendingIRQ
+                0x00000000       0x3c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetActive
+                0x00000000       0x40 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriority
+                0x00000000       0x4c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_DecodePriority
+                0x00000000       0x6c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SystemReset
+                0x00000000       0x28 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0x8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000        0xe CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x2c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0xb4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0xb8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x84 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0xbe CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x74 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0xec CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x30c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x20c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x90 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0xac CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000       0x16 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x5a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x00000000      0x79b CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x00000000      0x1fb CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000000       0x80 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000000       0x70 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00000000      0x6f5 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_str     0x00000000      0x727 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x00000000      0x208 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000      0x14c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000      0x104 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0xc0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000       0x32 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000       0x26 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x48 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x40 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x2c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x5c3 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1b9 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x3a4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x50c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x00000000      0x174 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0xe0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x90 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x1cc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x4c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x8c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0xa0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x58e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x20d CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x4ad CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x622 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x214 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xd8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x84 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x84 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0xf8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x40 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000      0x144 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000      0x140 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0xa0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x70 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x00000000       0x68 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x40 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0x811 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x218 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x509 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x74e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x258 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x178 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000       0x2e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x4e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x00000000       0x2c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x00000000      0x217 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x00000000       0xfb CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x2ad CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x38d CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x00000000       0x78 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x00000000       0x10 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x28 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0xbc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x64 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x24 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x6cc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x1ef CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x42b CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x5bf CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x270 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000      0x134 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x70 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x104 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x60 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0xc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x16c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x60 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata        0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x178 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x42e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x172 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x371 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x4d6 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0x84 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x00000000      0x14e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x8f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x00000000      0x1f2 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x2ed CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000      0x14e CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x8f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000      0x1f2 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x2f0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0xaa CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x00000000       0xcc CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0xe0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x00000000       0x58 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive
+                0x00000000      0x14c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0x88 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_IT
+                0x00000000       0xa8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_DMA
+                0x00000000       0xd8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_DMA
+                0x00000000      0x100 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x00000000       0xc6 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x00000000       0xa0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAStop
+                0x00000000       0xb6 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x00000000      0x104 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0x88 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x00000000       0x98 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x00000000      0x148 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0xa0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0xb0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_IRQHandler
+                0x00000000      0x1f8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_TxCpltCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_RxCpltCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_RxHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_ErrorCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x52 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000       0x52 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_ExitMuteMode
+                0x00000000       0x52 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x66 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x66 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x00000000       0x3a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x00000000       0x16 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATransmitCplt
+                0x00000000       0x52 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxHalfCplt
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x00000000       0x68 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxHalfCplt
+                0x00000000       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAError
+                0x00000000       0x94 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTxTransfer
+                0x00000000       0x2a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndRxTransfer
+                0x00000000       0x3a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAAbortOnError
+                0x00000000       0x28 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x5a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x5a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x2a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x2a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Transmit_IT
+                0x00000000       0xaa CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTransmit_IT
+                0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Receive_IT
+                0x00000000      0x102 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xe8 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+START GROUP
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m\libgcc.a
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+END GROUP
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+LOAD c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+                0x20005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x185c
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ *(.text*)
+ .text.main     0x0800014c       0x54 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+                0x0800014c                main
+ .text.SystemClock_Config
+                0x080001a0       0x8a CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+                0x080001a0                SystemClock_Config
+ *fill*         0x0800022a        0x2 
+ .text.MX_USART1_UART_Init
+                0x0800022c       0x54 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .text.MX_GPIO_Init
+                0x08000280       0x98 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .text.Error_Handler
+                0x08000318        0xc CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+                0x08000318                Error_Handler
+ .text.HAL_MspInit
+                0x08000324       0x64 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000324                HAL_MspInit
+ .text.HAL_UART_MspInit
+                0x08000388       0x98 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000388                HAL_UART_MspInit
+ .text.NMI_Handler
+                0x08000420        0xc CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000420                NMI_Handler
+ .text.HardFault_Handler
+                0x0800042c        0x6 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800042c                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000432        0x6 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000432                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000438        0x6 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000438                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0800043e        0x6 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800043e                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000444        0xc CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000444                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000450        0xc CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000450                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0800045c        0xc CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800045c                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000468        0xc CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000468                SysTick_Handler
+ .text.SystemInit
+                0x08000474       0x68 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08000474                SystemInit
+ .text.Reset_Handler
+                0x080004dc       0x48 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x080004dc                Reset_Handler
+ .text.Default_Handler
+                0x08000524        0x2 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x08000524                RTC_Alarm_IRQHandler
+                0x08000524                EXTI2_IRQHandler
+                0x08000524                TIM1_CC_IRQHandler
+                0x08000524                PVD_IRQHandler
+                0x08000524                EXTI3_IRQHandler
+                0x08000524                EXTI0_IRQHandler
+                0x08000524                I2C2_EV_IRQHandler
+                0x08000524                ADC1_2_IRQHandler
+                0x08000524                SPI1_IRQHandler
+                0x08000524                TAMPER_IRQHandler
+                0x08000524                DMA1_Channel4_IRQHandler
+                0x08000524                USART3_IRQHandler
+                0x08000524                RTC_IRQHandler
+                0x08000524                DMA1_Channel7_IRQHandler
+                0x08000524                CAN1_RX1_IRQHandler
+                0x08000524                TIM4_IRQHandler
+                0x08000524                I2C1_EV_IRQHandler
+                0x08000524                DMA1_Channel6_IRQHandler
+                0x08000524                TIM3_IRQHandler
+                0x08000524                RCC_IRQHandler
+                0x08000524                TIM1_TRG_COM_IRQHandler
+                0x08000524                DMA1_Channel1_IRQHandler
+                0x08000524                Default_Handler
+                0x08000524                EXTI15_10_IRQHandler
+                0x08000524                EXTI9_5_IRQHandler
+                0x08000524                SPI2_IRQHandler
+                0x08000524                DMA1_Channel5_IRQHandler
+                0x08000524                EXTI4_IRQHandler
+                0x08000524                USB_LP_CAN1_RX0_IRQHandler
+                0x08000524                USB_HP_CAN1_TX_IRQHandler
+                0x08000524                DMA1_Channel3_IRQHandler
+                0x08000524                TIM1_UP_IRQHandler
+                0x08000524                WWDG_IRQHandler
+                0x08000524                TIM2_IRQHandler
+                0x08000524                TIM1_BRK_IRQHandler
+                0x08000524                EXTI1_IRQHandler
+                0x08000524                USART2_IRQHandler
+                0x08000524                I2C2_ER_IRQHandler
+                0x08000524                DMA1_Channel2_IRQHandler
+                0x08000524                CAN1_SCE_IRQHandler
+                0x08000524                FLASH_IRQHandler
+                0x08000524                USART1_IRQHandler
+                0x08000524                I2C1_ER_IRQHandler
+                0x08000524                USBWakeUp_IRQHandler
+ *fill*         0x08000526        0x2 
+ .text.HAL_Init
+                0x08000528       0x2c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000528                HAL_Init
+ .text.HAL_InitTick
+                0x08000554       0x60 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000554                HAL_InitTick
+ .text.HAL_IncTick
+                0x080005b4       0x24 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080005b4                HAL_IncTick
+ .text.HAL_GetTick
+                0x080005d8       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080005d8                HAL_GetTick
+ .text.HAL_Delay
+                0x080005ec       0x44 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080005ec                HAL_Delay
+ .text.__NVIC_SetPriorityGrouping
+                0x08000630       0x48 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriorityGrouping
+                0x08000678       0x1c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPriority
+                0x08000694       0x54 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_EncodePriority
+                0x080006e8       0x64 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.SysTick_Config
+                0x0800074c       0x44 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000790       0x16 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000790                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x080007a6       0x38 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080007a6                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x080007de       0x18 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080007de                HAL_SYSTICK_Config
+ *fill*         0x080007f6        0x2 
+ .text.HAL_GPIO_Init
+                0x080007f8      0x2b4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x080007f8                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000aac       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000aac                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x08000adc       0x30 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000adc                HAL_GPIO_TogglePin
+ .text.HAL_RCC_OscConfig
+                0x08000b0c      0x500 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000b0c                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x0800100c      0x1d4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0800100c                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x080011e0       0xc4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080011e0                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_GetHCLKFreq
+                0x080012a4       0x14 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080012a4                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x080012b8       0x28 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080012b8                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x080012e0       0x28 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080012e0                HAL_RCC_GetPCLK2Freq
+ .text.RCC_Delay
+                0x08001308       0x3c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_UART_Init
+                0x08001344       0x9a CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001344                HAL_UART_Init
+ .text.HAL_UART_Transmit
+                0x080013de      0x132 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x080013de                HAL_UART_Transmit
+ .text.UART_WaitOnFlagUntilTimeout
+                0x08001510       0x94 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_SetConfig
+                0x080015a4      0x1b4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.__libc_init_array
+                0x08001758       0x48 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+                0x08001758                __libc_init_array
+ .text.memset   0x080017a0       0x94 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+                0x080017a0                memset
+ .text.startup.register_fini
+                0x08001834       0x14 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08001848        0xc c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+                0x08001848                atexit
+ .text.__libc_fini_array
+                0x08001854       0x34 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+                0x08001854                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08001888        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                0x08001888                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0800188c        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                0x0800188c                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08001890       0xc0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+                0x08001890                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08001950        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001950        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08001950        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x08001950        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+                0x08001950                _init
+ .init          0x08001954        0x8 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x0800195c        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+                0x0800195c                _fini
+ .fini          0x08001960        0x8 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+                0x08001968                . = ALIGN (0x4)
+                0x08001968                _etext = .
+
+.vfp11_veneer   0x08001968        0x0
+ .vfp11_veneer  0x08001968        0x0 linker stubs
+
+.v4_bx          0x08001968        0x0
+ .v4_bx         0x08001968        0x0 linker stubs
+
+.iplt           0x08001968        0x0
+ .iplt          0x08001968        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x08001968       0x38
+                0x08001968                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08001968        0x7 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ *fill*         0x0800196f        0x1 
+ .rodata        0x08001970       0x12 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *(.rodata*)
+ *fill*         0x08001982        0x2 
+ .rodata.AHBPrescTable
+                0x08001984       0x10 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001984                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08001994        0x8 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001994                APBPrescTable
+ .rodata._global_impure_ptr
+                0x0800199c        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+                0x0800199c                _global_impure_ptr
+                0x080019a0                . = ALIGN (0x4)
+
+.rel.dyn        0x080019a0        0x0
+ .rel.iplt      0x080019a0        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab      0x080019a0        0x0
+                0x080019a0                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080019a0                . = ALIGN (0x4)
+
+.ARM            0x080019a0        0x0
+                0x080019a0                . = ALIGN (0x4)
+                0x080019a0                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080019a0                __exidx_end = .
+                0x080019a0                . = ALIGN (0x4)
+
+.preinit_array  0x080019a0        0x0
+                0x080019a0                . = ALIGN (0x4)
+                0x080019a0                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x080019a0                PROVIDE (__preinit_array_end, .)
+                0x080019a0                . = ALIGN (0x4)
+
+.init_array     0x080019a0        0x8
+                0x080019a0                . = ALIGN (0x4)
+                0x080019a0                PROVIDE (__init_array_start, .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x080019a0        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x080019a4        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                0x080019a8                PROVIDE (__init_array_end, .)
+                0x080019a8                . = ALIGN (0x4)
+
+.fini_array     0x080019a8        0x4
+                0x080019a8                . = ALIGN (0x4)
+                0x080019a8                PROVIDE (__fini_array_start, .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080019a8        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                0x080019ac                PROVIDE (__fini_array_end, .)
+                0x080019ac                . = ALIGN (0x4)
+                0x080019ac                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x080019ac
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.uwTickPrio
+                0x20000004        0x4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000004                uwTickPrio
+ .data.uwTickFreq
+                0x20000008        0x1 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000008                uwTickFreq
+ *fill*         0x20000009        0x7 
+ .data.impure_data
+                0x20000010      0x428 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+
+.igot.plt       0x2000043c        0x0 load address 0x08001de8
+ .igot.plt      0x2000043c        0x0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                0x2000043c                . = ALIGN (0x4)
+
+.bss            0x2000043c       0x84 load address 0x08001de8
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ .bss.huart1    0x20000458       0x40 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+                0x20000458                huart1
+ .bss.uwTick    0x20000498        0x4 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000498                uwTick
+ *(COMMON)
+ COMMON         0x2000049c       0x21 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                0x2000049c                __lock___atexit_recursive_mutex
+                0x200004a0                __lock___arc4random_mutex
+                0x200004a4                __lock___env_recursive_mutex
+                0x200004a8                __lock___sinit_recursive_mutex
+                0x200004ac                __lock___malloc_recursive_mutex
+                0x200004b0                __lock___at_quick_exit_mutex
+                0x200004b4                __lock___dd_hash_mutex
+                0x200004b8                __lock___tz_mutex
+                0x200004bc                __lock___sfp_recursive_mutex
+                0x200004c0                . = ALIGN (0x4)
+ *fill*         0x200004bd        0x3 
+                0x200004c0                _ebss = .
+                0x200004c0                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200004c0      0x600 load address 0x08001de8
+                0x200004c0                . = ALIGN (0x8)
+                0x200004c0                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x200006c0                . = (. + _Min_Heap_Size)
+ *fill*         0x200004c0      0x200 
+                0x20000ac0                . = (. + _Min_Stack_Size)
+ *fill*         0x200006c0      0x400 
+                0x20000ac0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x0000007d       0x33 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000000b0       0x33 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x000000e3       0x33 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x00000116       0x21 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .ARM.attributes
+                0x00000137       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x0000016a       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x0000019d       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x000001d0       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x00000203       0x33 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .ARM.attributes
+                0x00000236       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000263       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000290       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002bd       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000002ea       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000317       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000344       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000371       0x2d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000039e       0x1d c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+OUTPUT(CubesatUART.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x49de
+ .debug_info    0x00000000      0x914 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00000914      0x81c CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00001130      0x1ef CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x0000131f      0x428 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00001747       0x22 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_info    0x00001769      0x6f3 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00001e5c      0xb3b CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00002997      0x676 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x0000300d      0x7f9 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00003806     0x11d8 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_abbrev   0x00000000     0x104e
+ .debug_abbrev  0x00000000      0x1dc CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x000001dc      0x189 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x00000365       0xc3 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x00000428      0x131 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00000559       0x12 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_abbrev  0x0000056b      0x1d5 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000740      0x2d2 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000a12      0x1bd CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000bcf      0x240 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00000e0f      0x23f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_aranges  0x00000000      0x5b8
+ .debug_aranges
+                0x00000000       0x40 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000040       0x30 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000070       0x60 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x000000d0       0x28 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x000000f8       0x28 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_aranges
+                0x00000120       0xe0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x00000200      0x100 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000300       0x58 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000358       0x90 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x000003e8      0x1d0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_ranges   0x00000000      0x520
+ .debug_ranges  0x00000000       0x30 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000030       0x20 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000050       0x50 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x000000a0       0x18 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x000000b8       0x20 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_ranges  0x000000d8       0xd0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x000001a8       0xf0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000298       0x48 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x000002e0       0x80 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x00000360      0x1c0 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_line     0x00000000     0x2c23
+ .debug_line    0x00000000      0x371 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000371      0x2fe CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x0000066f      0x2ef CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000095e      0x2b8 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00000c16       0xb9 CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_line    0x00000ccf      0x468 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00001137      0x539 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00001670      0x480 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00001af0      0x582 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00002072      0xbb1 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_str      0x00000000     0x1d5e
+ .debug_str     0x00000000      0x7fd CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+                                0x891 (size before relaxing)
+ .debug_str     0x000007fd       0xb9 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                                0x75d (size before relaxing)
+ .debug_str     0x000008b6       0xe0 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0x360 (size before relaxing)
+ .debug_str     0x00000996       0xdb CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x3aa (size before relaxing)
+ .debug_str     0x00000a71       0x6c CMakeFiles/CubesatUART.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                                 0xb6 (size before relaxing)
+ .debug_str     0x00000add      0x576 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x87e (size before relaxing)
+ .debug_str     0x00001053      0x3e1 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0x9e5 (size before relaxing)
+ .debug_str     0x00001434      0x17f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x536 (size before relaxing)
+ .debug_str     0x000015b3      0x24f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x6f1 (size before relaxing)
+ .debug_str     0x00001802      0x55c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                                0xc38 (size before relaxing)
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x0000007e       0x7f CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_frame    0x00000000     0x1788
+ .debug_frame   0x00000000       0xb4 CMakeFiles/CubesatUART.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x000000b4       0x80 CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x00000134      0x10c CMakeFiles/CubesatUART.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x00000240       0x58 CMakeFiles/CubesatUART.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x00000298      0x334 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x000005cc      0x428 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x000009f4      0x14c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000b40      0x21c CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00000d5c      0x834 CMakeFiles/CubesatUART.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_frame   0x00001590       0x2c c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .debug_frame   0x000015bc       0x38 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x000015f4       0x5c c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001650       0x20 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00001670       0x34 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x000016a4       0xb0 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .debug_frame   0x00001754       0x34 c:/progra~2/gnutoo~1/72017-~1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
