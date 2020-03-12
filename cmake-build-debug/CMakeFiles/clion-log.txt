@@ -1,4 +1,0 @@
-C:\Users\Akash\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_SH=CMAKE_SH-NOTFOUND -G "CodeBlocks - MinGW Makefiles" C:\Users\Akash\STM32CubeIDE\workspace_1.3.0\CubesatUART
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug

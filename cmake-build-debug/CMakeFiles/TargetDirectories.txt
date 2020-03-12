@@ -1,3 +1,0 @@
-C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/CubesatUART.elf.dir
-C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Akash/STM32CubeIDE/workspace_1.3.0/CubesatUART/cmake-build-debug/CMakeFiles/rebuild_cache.dir
